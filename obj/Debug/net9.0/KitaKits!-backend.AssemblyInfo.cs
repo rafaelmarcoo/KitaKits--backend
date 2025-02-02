@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KitaKits!-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f77659b2622dfe949f5f1b77a773907d923ed5a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("KitaKits!-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KitaKits!-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
