@@ -1,0 +1,6 @@
+@KitaKits__backend_HostAddress = http://localhost:5144
+
+GET {{KitaKits__backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

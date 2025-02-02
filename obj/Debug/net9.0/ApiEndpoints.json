@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "KitaKits__backend.Controllers.UserController",
+    "Method": "AddNewUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KitaKits__backend.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
